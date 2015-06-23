@@ -40,4 +40,5 @@ int main()
 		g<<endl;
 	}
 	return 0;
+	// totul este in regula, ai facut o treaba buna!
 }
